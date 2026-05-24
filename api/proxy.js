@@ -9,7 +9,7 @@ export default async function handler(req, res) {
     return res.status(200).end();
   }
   
-  const BACKEND_URL = 'https://script.google.com/macros/s/AKfycbx6yrDYJ9G1nYI0NPvaacdjWGDQVu91WGCR0yBO0OtZn0INK1kibEM_AJDxesMPcVgx_Q/exec';
+  const BACKEND_URL = 'https://script.google.com/macros/s/AKfycbxFUlBNSlG1OBNQpA4FlHP9K592KktTjunuO-TbifYKzZJR1yR0Xe4XhtYR7iBg9FmxOg/exec';
   
   try {
     // 获取请求体
