@@ -1,1 +1,6 @@
-{"name":"aromasune-proxy","version":"1.0.0"}
+{
+  "name": "aromasune-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module"
+}
